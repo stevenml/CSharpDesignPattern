@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDesignPattern", "CSharpDesignPattern\CSharpDesignPattern.csproj", "{918C0B7D-4A63-49F1-ADE6-C100186B89FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern1", "CompositePattern1\CompositePattern1.csproj", "{B1083548-B871-4918-9BCE-B3A436EE3912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{918C0B7D-4A63-49F1-ADE6-C100186B89FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918C0B7D-4A63-49F1-ADE6-C100186B89FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918C0B7D-4A63-49F1-ADE6-C100186B89FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1083548-B871-4918-9BCE-B3A436EE3912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1083548-B871-4918-9BCE-B3A436EE3912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1083548-B871-4918-9BCE-B3A436EE3912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1083548-B871-4918-9BCE-B3A436EE3912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
